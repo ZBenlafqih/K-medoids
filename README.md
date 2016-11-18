@@ -1,2 +1,2 @@
 # K-medoids
-clustering algorithm
+clustering algorithm using C programming, GTK and glade
